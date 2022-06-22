@@ -31,4 +31,4 @@
 // Suppose you have two string variables: str1, str2. How can you add both the string so that str2 comes first? //str2.concat(str1)
 
 // 13
-How can you get the current date using js Date objects ? // console.log(Date.now())
+// How can you get the current date using js Date objects ? // console.log(Date.now())
