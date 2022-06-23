@@ -8,7 +8,8 @@ const products = [
     'HTC low price Phone',
     'Dell purple color phone with Laptop'
 ];
-const searching = 'dell';
+// const searching = 'dell';
+const searching = 'iphone';
 
 
 
@@ -17,6 +18,7 @@ const output = [];
 for (const product of products) {
     if (product.toLowerCase().startsWith(searching.toLowerCase())) {
         output.push(product);
+        //starting e ache kina sheta check korbe
     }
 }
 console.log(output);

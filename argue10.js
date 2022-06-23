@@ -2,6 +2,7 @@ function getFullName(firstName, lastName) {
     let fullName = ' ';
     for (const part of arguments) {
         fullName = fullName + part + ' ';
+        // " " ei part pore na diye majhe dileo hbe 
     }
     return fullName;
 }

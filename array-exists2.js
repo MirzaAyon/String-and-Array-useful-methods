@@ -11,6 +11,7 @@ function megaFriend(friends) {
     return mega;
 }
 const friends = ['shammi', 'plabon', 'Trinoy', 'Iffu'];
-const myBigBuddy = megaFriend(12345);
-//uporer va;idation na dile ekhane error dito
+// const myBigBuddy = megaFriend(12345);
+const myBigBuddy = megaFriend(friends);
+//uporer validation na dile ekhane error dito
 console.log(myBigBuddy);

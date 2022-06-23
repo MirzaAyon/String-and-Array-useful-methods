@@ -8,7 +8,6 @@ const products = [
     'Dell purple color phone with Laptop'
 ];
 const searching = 'laptop';
-
 //indexof
 
 const output = [];

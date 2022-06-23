@@ -14,3 +14,4 @@ const sum2 = addNumbers(23, 13, 30, 10, 4);
 //but tao future e problem hbe 
 console.log(sum);
 //argument je array like object ta ei code dekhe bujha jae
+//but ekhane push pop possible na

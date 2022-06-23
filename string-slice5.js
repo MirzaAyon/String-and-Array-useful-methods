@@ -2,13 +2,14 @@
 const first = 'amader';
 const second = 'city';
 // const fullString = first + '' + second;
+// const fullString = first + ' ' + second;
 // console.log(fullString);
 //string immuate able mane ki? string immuate able mane pasha pashi jora dite gele ektar sathe arekta pasha pashi boshae dile hbe na, notun arekta string create korte hoe
 
 // const fullString = first.concat(second);
 // const fullString = first.concat(second).concat('abc');
-const fullString = first.concat(second).concat('abc').concat('ayon');
-console.log(fullString);
+// const fullString = first.concat(second).concat('abc').concat('ayon');
+// console.log(fullString);
 
 
 //join()
